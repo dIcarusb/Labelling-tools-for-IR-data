@@ -19,3 +19,16 @@ Researchers can utilize these labelling tools to streamline the process of annot
 ### License:
 
 This repository is provided under the MIT License. Please refer to the LICENSE file for more details.
+
+### Citation
+
+```bibtex
+@misc{Baykalov2024scripts,
+  Author = {Pavel Baykalov},
+  Title = {Labelling tools for IR data & SWIR data alignment},
+  Year = {2024},
+  Publisher = {GitHub},
+  Journal = {GitHub repository},
+  Howpublished = {\url{https://github.com/dIcarusb/Labelling-tools-for-IR-data/tree/main}}
+}
+```
