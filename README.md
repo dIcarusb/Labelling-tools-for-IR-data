@@ -13,6 +13,8 @@ This repository contains two labeling tools developed for annotating visual and 
 
 ![Alignment Example](Example_alignment.png)
 
+Alignment result example.
+
 ### Repository contents:
 
 | File/Folder | Description |
